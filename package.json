@@ -1,0 +1,23 @@
+{
+    "name": "tsuki-hi-kanpo",
+    "version": "1.0.0",
+    "description": "月日（つきひ）漢方診断Webサービス",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.22.0",
+      "recharts": "^2.12.0",
+      "html2pdf.js": "^0.10.1",
+      "papaparse": "^5.4.1"
+    },
+    "devDependencies": {
+      "vite": "^4.4.9",
+      "typescript": "^5.2.2",
+      "@vitejs/plugin-react": "^4.0.0"
+    }
+  }
